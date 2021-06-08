@@ -16,6 +16,6 @@ Gem::Specification.new do |s|
   s.require_paths = ['lib']
   s.required_ruby_version = Gem::Requirement.new('>= 2.3.0')
 
-  s.add_development_dependency 'rake' 
+  s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec'
 end
